@@ -38,7 +38,7 @@
 ### 📬 Contato
 
 - WhatsApp: [Clique aqui](https://wa.me/5547992273420)
-- Twitter/X: [@duplocego](https://twitter.com/filstones)
+- Twitter/X: [@filstones](https://twitter.com/filstones)
 - E-mail: **[silvafilipe9036@gmail.com]**
 
 ---
