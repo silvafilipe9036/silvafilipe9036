@@ -1,80 +1,52 @@
-🚀 Sobre mim
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas @ Uniavan – SC
+<h1 align="center">Fala, dev! 👋 Eu sou o Filipe Silva</h1>
 
-📊 Estudante autodidata de Big Data (pipelines, lakes & analytics)
+<p align="center">
+  💻 Estudante de Análise de Sistemas & Explorador de IA e Cibersegurança<br>
+  🚀 Criando sistemas web, bots e negócios com inteligência<br>
+  🧠 Aprendendo todos os dias com foco em performance e estratégia
+</p>
 
-🛠️ Construo sistemas web com IA usando Python · Django · Next.js · React · Tailwind
+---
 
-🔐 Estudante autodidata de Cibersegurança & OSINT (Professor Zero‑Day trainee)
+### 🧰 Tecnologias e Ferramentas
 
-🏗️ Cofundador da VÉRTICE, ecossistema de startups de dados & segurança
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
+![Node.js](https://img.shields.io/badge/-Node.js-43853D?style=flat-square&logo=node.js)
 
-🌱 Aprendendo: Rust, LangChain, Vector Databases
+---
 
-🎯 Missão: criar produtos que capacitam pessoas e protegem dados
+### 🧪 Projetos em Destaque
 
-⚡ Curiosidade: ex‑investidor imobiliário que trocou tijolos por bits
+- 🖥️ [**MacUp BC**](https://github.com/silvafilipe9036/macup-bc) – Revenda estratégica de FrankenMacs com IA e automação
+- 🛡️ **Agente SYNAPSE** – Framework de segurança digital para operações críticas (em sigilo)
+- 🧠 **NOESIS 7** – Sistema de inteligência simbólica para análise estratégica de dados
 
-🧰 Tech Toolbox
+---
 
+### 📍 Atualmente
 
+- 🎯 Criando um ecossistema de startups com IA e automação em SC
+- 🧬 Estudando programação, cibersegurança e linguística estratégica
+- ✍️ Documentando tudo no GitHub, Notion e bots inteligentes
 
-📈 GitHub Analytics
+---
 
-📌 Projetos em destaque
+### 📫 Vamos conversar?
 
-Projeto
+- WhatsApp: [+55 47 99227-3420](https://wa.me/5547992273420)
+- Twitter/X: [@duplocego](https://twitter.com/duplocego)
+- E-mail: **[inserir seu email]**
 
-Descrição
+---
 
-Tecnologias
+### 🔥 Fun fact
 
-MacUp BC
+> “Você não precisa saber tudo, só precisa **agir todos os dias**.”
 
-Bot de oportunidades para FrankenMacs
-
-Python · Playwright · FastAPI · Telegram Bot
-
-SYNAPSE ARC‑SEC01
-
-Agente de defesa digital estilo Mossad
-
-Python · LangChain · OpenAI · RAG
-
-VÉRTICE INTEL
-
-Plataforma de relatórios investigativos
-
-Next.js · Supabase · Tailwind · D3.js
-
-Projeto
-
-Descrição
-
-Tecnologias
-
-NOESIS
-
-Módulo de linguagem simbólica para guerra memética
-
-Python · GPT‑4o
-
-CÉLULA 38
-
-Rede descentralizada de perfis X para operações narrativas
-
-Go · AWS Lambda
-
-🤝 Vamos conversar?
-
-💼 LinkedIn
-
-📫 Email: filipe@proton.me
-
-💬 Telegram: @lipe9036
-
-🍵 Reunião virtual: Calendly → em breve
-
-“Code is a story. I write chapters that empower people.” – Filipe
+---
 
