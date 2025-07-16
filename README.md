@@ -33,6 +33,17 @@
 - 🧠 NOESIS 7 – inteligência simbólica para negócios, IA e linguagem
 - 📡 Bot de automação de redes sociais com IA (Instagram + Telegram)
 
+### 📡 Notícias de Política
+
+Um script simples em Python (`political_news.py`) busca as últimas notícias de
+política através de feeds RSS. Para executar:
+
+```bash
+python3 political_news.py
+```
+
+É necessário ter conexão com a internet para que os feeds sejam baixados.
+
 ---
 
 ### 📬 Contato
